@@ -1,0 +1,122 @@
+epoch=1, test_top1=0.1438, test_top5=0.4261
+
+epoch=2, test_top1=0.1699, test_top5=0.4536
+
+epoch=3, test_top1=0.1869, test_top5=0.4739
+
+epoch=4, test_top1=0.1902, test_top5=0.4758
+
+epoch=5, test_top1=0.2026, test_top5=0.4850
+
+epoch=6, test_top1=0.2176, test_top5=0.5085
+
+epoch=7, test_top1=0.2157, test_top5=0.4856
+
+epoch=8, test_top1=0.2170, test_top5=0.5131
+
+epoch=9, test_top1=0.2242, test_top5=0.5196
+
+epoch=10, test_top1=0.2373, test_top5=0.5209
+
+epoch=11, test_top1=0.2275, test_top5=0.5222
+
+epoch=12, test_top1=0.2301, test_top5=0.5052
+
+epoch=13, test_top1=0.2353, test_top5=0.5216
+
+epoch=14, test_top1=0.2346, test_top5=0.5170
+
+epoch=15, test_top1=0.2261, test_top5=0.4993
+
+epoch=16, test_top1=0.1974, test_top5=0.4902
+
+epoch=17, test_top1=0.2268, test_top5=0.5333
+
+epoch=18, test_top1=0.2170, test_top5=0.5255
+
+epoch=19, test_top1=0.2294, test_top5=0.5412
+
+epoch=20, test_top1=0.2523, test_top5=0.5294
+
+epoch=21, test_top1=0.2366, test_top5=0.5458
+
+epoch=22, test_top1=0.2209, test_top5=0.5196
+
+epoch=23, test_top1=0.2366, test_top5=0.5392
+
+epoch=24, test_top1=0.2392, test_top5=0.5353
+
+epoch=25, test_top1=0.2399, test_top5=0.5314
+
+epoch=26, test_top1=0.2425, test_top5=0.5392
+
+epoch=27, test_top1=0.2418, test_top5=0.5425
+
+epoch=28, test_top1=0.2542, test_top5=0.5588
+
+epoch=29, test_top1=0.2503, test_top5=0.5771
+
+epoch=30, test_top1=0.2660, test_top5=0.5556
+
+epoch=31, test_top1=0.2549, test_top5=0.5627
+
+epoch=32, test_top1=0.2614, test_top5=0.5542
+
+epoch=33, test_top1=0.2634, test_top5=0.5673
+
+epoch=34, test_top1=0.2667, test_top5=0.5608
+
+epoch=35, test_top1=0.2608, test_top5=0.5601
+
+epoch=36, test_top1=0.2699, test_top5=0.5379
+
+epoch=37, test_top1=0.2634, test_top5=0.5699
+
+epoch=38, test_top1=0.2647, test_top5=0.5575
+
+epoch=39, test_top1=0.2562, test_top5=0.5588
+
+epoch=40, test_top1=0.2451, test_top5=0.5752
+
+epoch=41, test_top1=0.2725, test_top5=0.5928
+
+epoch=42, test_top1=0.2673, test_top5=0.5928
+
+epoch=43, test_top1=0.2856, test_top5=0.5908
+
+epoch=44, test_top1=0.2712, test_top5=0.5797
+
+epoch=45, test_top1=0.2967, test_top5=0.5889
+
+epoch=46, test_top1=0.2830, test_top5=0.5908
+
+epoch=47, test_top1=0.2810, test_top5=0.5895
+
+epoch=48, test_top1=0.2869, test_top5=0.5856
+
+epoch=49, test_top1=0.2680, test_top5=0.5804
+
+epoch=50, test_top1=0.2712, test_top5=0.5856
+
+epoch=51, test_top1=0.2837, test_top5=0.5961
+
+epoch=52, test_top1=0.2680, test_top5=0.5908
+
+epoch=53, test_top1=0.2824, test_top5=0.5954
+
+epoch=54, test_top1=0.2817, test_top5=0.6033
+
+epoch=55, test_top1=0.2843, test_top5=0.5948
+
+epoch=56, test_top1=0.2797, test_top5=0.5876
+
+epoch=57, test_top1=0.2719, test_top5=0.5699
+
+epoch=58, test_top1=0.2908, test_top5=0.5902
+
+epoch=59, test_top1=0.3000, test_top5=0.5967
+
+epoch=60, test_top1=0.2915, test_top5=0.5987
+
+# test_acc
+# 28.68, 58.86 vs 28.53 , 59.34

@@ -1,0 +1,180 @@
+epoch=1, train_top1=0.1441, train_top5=0.4198, lr=0.009993
+bce_losses=0.67051, contrast_losses=0.73471, similar_losses=0.00072, loss=0.80183
+
+epoch=2, train_top1=0.2124, train_top5=0.5149, lr=0.009973
+bce_losses=0.49786, contrast_losses=0.60550, similar_losses=0.00059, loss=0.65534
+
+epoch=3, train_top1=0.2399, train_top5=0.5667, lr=0.009938
+bce_losses=0.31707, contrast_losses=0.48149, similar_losses=0.00047, loss=0.51325
+
+epoch=4, train_top1=0.2699, train_top5=0.5872, lr=0.009891
+bce_losses=0.22825, contrast_losses=0.29463, similar_losses=0.00029, loss=0.31749
+
+epoch=5, train_top1=0.2965, train_top5=0.6205, lr=0.009830
+bce_losses=0.19094, contrast_losses=0.24565, similar_losses=0.00024, loss=0.26477
+
+epoch=6, train_top1=0.3153, train_top5=0.6295, lr=0.009755
+bce_losses=0.17170, contrast_losses=0.22499, similar_losses=0.00022, loss=0.24218
+
+epoch=7, train_top1=0.3251, train_top5=0.6320, lr=0.009668
+bce_losses=0.15992, contrast_losses=0.21481, similar_losses=0.00021, loss=0.23082
+
+epoch=8, train_top1=0.3352, train_top5=0.6561, lr=0.009568
+bce_losses=0.15134, contrast_losses=0.20345, similar_losses=0.00020, loss=0.21861
+
+epoch=9, train_top1=0.3484, train_top5=0.6584, lr=0.009455
+bce_losses=0.14541, contrast_losses=0.19722, similar_losses=0.00019, loss=0.21178
+
+epoch=10, train_top1=0.3635, train_top5=0.6640, lr=0.009330
+bce_losses=0.14068, contrast_losses=0.18925, similar_losses=0.00018, loss=0.20334
+
+epoch=11, train_top1=0.3526, train_top5=0.6710, lr=0.009193
+bce_losses=0.13723, contrast_losses=0.18493, similar_losses=0.00018, loss=0.19867
+
+epoch=12, train_top1=0.3646, train_top5=0.6833, lr=0.009045
+bce_losses=0.13440, contrast_losses=0.18110, similar_losses=0.00018, loss=0.19456
+
+epoch=13, train_top1=0.3641, train_top5=0.6903, lr=0.008886
+bce_losses=0.13207, contrast_losses=0.17622, similar_losses=0.00017, loss=0.18944
+
+epoch=14, train_top1=0.3817, train_top5=0.7021, lr=0.008716
+bce_losses=0.13002, contrast_losses=0.17102, similar_losses=0.00017, loss=0.18404
+
+epoch=15, train_top1=0.3932, train_top5=0.6959, lr=0.008536
+bce_losses=0.12874, contrast_losses=0.16992, similar_losses=0.00017, loss=0.18281
+
+epoch=16, train_top1=0.4100, train_top5=0.7138, lr=0.008346
+bce_losses=0.12732, contrast_losses=0.16476, similar_losses=0.00016, loss=0.17751
+
+epoch=17, train_top1=0.3988, train_top5=0.7130, lr=0.008147
+bce_losses=0.12646, contrast_losses=0.16225, similar_losses=0.00016, loss=0.17491
+
+epoch=18, train_top1=0.3921, train_top5=0.7116, lr=0.007939
+bce_losses=0.12573, contrast_losses=0.16021, similar_losses=0.00016, loss=0.17280
+
+epoch=19, train_top1=0.4084, train_top5=0.7133, lr=0.007723
+bce_losses=0.12511, contrast_losses=0.15894, similar_losses=0.00016, loss=0.17147
+
+epoch=20, train_top1=0.4173, train_top5=0.7203, lr=0.007500
+bce_losses=0.12434, contrast_losses=0.15407, similar_losses=0.00015, loss=0.16652
+
+epoch=21, train_top1=0.4367, train_top5=0.7307, lr=0.007270
+bce_losses=0.12381, contrast_losses=0.15001, similar_losses=0.00015, loss=0.16241
+
+epoch=22, train_top1=0.4361, train_top5=0.7256, lr=0.007034
+bce_losses=0.12362, contrast_losses=0.14959, similar_losses=0.00015, loss=0.16197
+
+epoch=23, train_top1=0.4383, train_top5=0.7422, lr=0.006792
+bce_losses=0.12337, contrast_losses=0.14687, similar_losses=0.00014, loss=0.15922
+
+epoch=24, train_top1=0.4456, train_top5=0.7430, lr=0.006545
+bce_losses=0.12318, contrast_losses=0.14466, similar_losses=0.00014, loss=0.15699
+
+epoch=25, train_top1=0.4473, train_top5=0.7539, lr=0.006294
+bce_losses=0.12307, contrast_losses=0.14093, similar_losses=0.00014, loss=0.15325
+
+epoch=26, train_top1=0.4613, train_top5=0.7548, lr=0.006040
+bce_losses=0.12295, contrast_losses=0.13944, similar_losses=0.00014, loss=0.15175
+
+epoch=27, train_top1=0.4594, train_top5=0.7618, lr=0.005782
+bce_losses=0.12283, contrast_losses=0.13477, similar_losses=0.00013, loss=0.14707
+
+epoch=28, train_top1=0.4596, train_top5=0.7615, lr=0.005523
+bce_losses=0.12310, contrast_losses=0.13623, similar_losses=0.00013, loss=0.14855
+
+epoch=29, train_top1=0.4812, train_top5=0.7747, lr=0.005262
+bce_losses=0.12289, contrast_losses=0.13224, similar_losses=0.00013, loss=0.14455
+
+epoch=30, train_top1=0.4835, train_top5=0.7864, lr=0.005000
+bce_losses=0.12279, contrast_losses=0.12808, similar_losses=0.00013, loss=0.14037
+
+epoch=31, train_top1=0.4857, train_top5=0.7766, lr=0.004738
+bce_losses=0.12315, contrast_losses=0.13065, similar_losses=0.00013, loss=0.14298
+
+epoch=32, train_top1=0.4972, train_top5=0.7825, lr=0.004477
+bce_losses=0.12291, contrast_losses=0.12593, similar_losses=0.00012, loss=0.13823
+
+epoch=33, train_top1=0.5036, train_top5=0.7845, lr=0.004218
+bce_losses=0.12295, contrast_losses=0.12278, similar_losses=0.00012, loss=0.13508
+
+epoch=34, train_top1=0.5076, train_top5=0.7848, lr=0.003960
+bce_losses=0.12312, contrast_losses=0.12205, similar_losses=0.00012, loss=0.13438
+
+epoch=35, train_top1=0.5151, train_top5=0.8061, lr=0.003706
+bce_losses=0.12277, contrast_losses=0.11654, similar_losses=0.00011, loss=0.12883
+
+epoch=36, train_top1=0.5140, train_top5=0.8055, lr=0.003455
+bce_losses=0.12321, contrast_losses=0.11716, similar_losses=0.00011, loss=0.12950
+
+epoch=37, train_top1=0.5205, train_top5=0.8061, lr=0.003208
+bce_losses=0.12340, contrast_losses=0.11737, similar_losses=0.00011, loss=0.12972
+
+epoch=38, train_top1=0.5297, train_top5=0.8159, lr=0.002966
+bce_losses=0.12329, contrast_losses=0.11222, similar_losses=0.00011, loss=0.12456
+
+epoch=39, train_top1=0.5325, train_top5=0.8153, lr=0.002730
+bce_losses=0.12334, contrast_losses=0.11107, similar_losses=0.00011, loss=0.12342
+
+epoch=40, train_top1=0.5558, train_top5=0.8234, lr=0.002500
+bce_losses=0.12316, contrast_losses=0.10803, similar_losses=0.00011, loss=0.12035
+
+epoch=41, train_top1=0.5631, train_top5=0.8321, lr=0.002277
+bce_losses=0.12312, contrast_losses=0.10562, similar_losses=0.00010, loss=0.11794
+
+epoch=42, train_top1=0.5490, train_top5=0.8237, lr=0.002061
+bce_losses=0.12340, contrast_losses=0.10724, similar_losses=0.00010, loss=0.11959
+
+epoch=43, train_top1=0.5535, train_top5=0.8290, lr=0.001853
+bce_losses=0.12349, contrast_losses=0.10415, similar_losses=0.00010, loss=0.11651
+
+epoch=44, train_top1=0.5510, train_top5=0.8285, lr=0.001654
+bce_losses=0.12368, contrast_losses=0.10461, similar_losses=0.00010, loss=0.11699
+
+epoch=45, train_top1=0.5622, train_top5=0.8330, lr=0.001464
+bce_losses=0.12357, contrast_losses=0.10227, similar_losses=0.00010, loss=0.11464
+
+epoch=46, train_top1=0.5726, train_top5=0.8461, lr=0.001284
+bce_losses=0.12334, contrast_losses=0.09897, similar_losses=0.00010, loss=0.11131
+
+epoch=47, train_top1=0.5743, train_top5=0.8473, lr=0.001114
+bce_losses=0.12341, contrast_losses=0.09895, similar_losses=0.00010, loss=0.11130
+
+epoch=48, train_top1=0.5852, train_top5=0.8442, lr=0.000955
+bce_losses=0.12333, contrast_losses=0.09640, similar_losses=0.00009, loss=0.10875
+
+epoch=49, train_top1=0.5768, train_top5=0.8388, lr=0.000807
+bce_losses=0.12358, contrast_losses=0.09728, similar_losses=0.00009, loss=0.10965
+
+epoch=50, train_top1=0.5886, train_top5=0.8467, lr=0.000670
+bce_losses=0.12334, contrast_losses=0.09563, similar_losses=0.00009, loss=0.10797
+
+epoch=51, train_top1=0.5838, train_top5=0.8487, lr=0.000545
+bce_losses=0.12360, contrast_losses=0.09704, similar_losses=0.00009, loss=0.10940
+
+epoch=52, train_top1=0.5866, train_top5=0.8529, lr=0.000432
+bce_losses=0.12344, contrast_losses=0.09446, similar_losses=0.00009, loss=0.10681
+
+epoch=53, train_top1=0.5874, train_top5=0.8545, lr=0.000332
+bce_losses=0.12340, contrast_losses=0.09275, similar_losses=0.00009, loss=0.10510
+
+epoch=54, train_top1=0.5900, train_top5=0.8531, lr=0.000245
+bce_losses=0.12351, contrast_losses=0.09402, similar_losses=0.00009, loss=0.10638
+
+epoch=55, train_top1=0.5852, train_top5=0.8509, lr=0.000170
+bce_losses=0.12361, contrast_losses=0.09392, similar_losses=0.00009, loss=0.10629
+
+epoch=56, train_top1=0.5967, train_top5=0.8540, lr=0.000109
+bce_losses=0.12341, contrast_losses=0.09336, similar_losses=0.00009, loss=0.10571
+
+epoch=57, train_top1=0.5858, train_top5=0.8568, lr=0.000062
+bce_losses=0.12340, contrast_losses=0.09322, similar_losses=0.00009, loss=0.10557
+
+epoch=58, train_top1=0.5886, train_top5=0.8498, lr=0.000027
+bce_losses=0.12353, contrast_losses=0.09350, similar_losses=0.00009, loss=0.10586
+
+epoch=59, train_top1=0.6023, train_top5=0.8509, lr=0.000007
+bce_losses=0.12339, contrast_losses=0.09268, similar_losses=0.00009, loss=0.10503
+
+epoch=60, train_top1=0.5802, train_top5=0.8453, lr=0.000000
+bce_losses=0.12368, contrast_losses=0.09484, similar_losses=0.00009, loss=0.10721
+
